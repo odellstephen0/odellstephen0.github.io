@@ -1,3 +1,13 @@
+* {
+  box-sizing: border-box;
+  display: flexbox;
+}
+
 h1 {
-  color: blue
+  color: blue;
+  justify-content: center;
+}
+
+p {
+  justify-content: center;
 }
