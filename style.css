@@ -1,12 +1,1 @@
-* {
-  display: flex;
-}
 
-h1 {
-  color: blue;
-  justify-content: center;
-}
-
-p {
-  justify-content: center;
-}
